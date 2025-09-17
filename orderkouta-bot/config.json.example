@@ -1,0 +1,59 @@
+{
+  "telegram_bot_token": "123:ABC",
+  "mutasi": {
+    "url": "https://orkut.ftvpn.me/api/mutasi/api/mutasi",
+    "auth_username": "USER",
+    "auth_token": "TOKEN",
+    "poll_interval_sec": 20,
+    "verify_ssl": true
+  },
+  "payments": {
+    "order_prefix": "OK",
+    "payment_window_min": 15,
+    "unique_digits": 3,
+    "qris_info": "Scan QRIS statis di bawah ini.",
+    "qris_image_url": "https://cdn.example.com/qris.png"
+  },
+  "products": {
+    "VVIP_V1": {
+      "name": "VVIP Live V1",
+      "price": 50000,
+      "invite_link": "https://t.me/+link1",
+      "duration_days": 30
+    },
+    "VVIP_V2": {
+      "name": "VVIP Live V2",
+      "price": 30000,
+      "invite_link": "https://t.me/+link2",
+      "duration_days": 30
+    },
+    "VVIP_V3": {
+      "name": "VVIP Live V3",
+      "price": 20000,
+      "invite_link": "https://t.me/+link3",
+      "duration_days": 30
+    },
+    "VVIP_V4": {
+      "name": "VVIP Live V4",
+      "price": 20000,
+      "invite_link": "https://t.me/+link4",
+      "duration_days": 30
+    },
+    "VVIP_V5": {
+      "name": "VVIP Live V5",
+      "price": 20000,
+      "invite_link": "https://t.me/+link5",
+      "duration_days": 30
+    },
+    "VIP_MONTH": {
+      "name": "VIP Live Bulanan",
+      "price": 25000,
+      "invite_link": "https://t.me/+link6",
+      "duration_days": 30
+    }
+  },
+  "admin": {
+    "owner_id": 123456789,
+    "support_username": "CariDoodstream"
+  }
+}

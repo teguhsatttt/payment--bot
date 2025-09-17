@@ -1,0 +1,23 @@
+{
+  "welcome": "Halo Rich world 🪙, selamat datang di Bot Payment VIP!\n\nBot ini digunakan untuk mengelola pembayaran dan akses Grup VIP secara otomatis.\n\nPerintah:\n• /order – Bergabung ke Grup VIP\n• /trialvip – Percobaan 1 hari (GRATIS)\n• /info – Informasi tentang Grup VIP\n• /tos – Syarat & Ketentuan Layanan\n• /help – Bantuan dan FAQ",
+  "menu_titles": {
+    "pick_package": "Silakan pilih paket VIP yang diinginkan:",
+    "re_show_qr": "🔁 Tampilkan ulang QR",
+    "cancel": "❌ Batal"
+  },
+  "order_texts": {
+    "created_header": "✅ Order dibuat.",
+    "must_pay_exact": "WAJIB bayar sesuai nominal unik:",
+    "postpay_msg": "Pembayaran *TERKONFIRMASI* ✅",
+    "expired_msg": "Order kedaluwarsa. Silakan /order ulang."
+  },
+  "info": "LIST VIP\n\n(Semua isi hanya hasil live streaming dari APK HOT51, DreamLive, Papaya Live, Bigo, TikTok DLL. Bukan video viral, skandal, atau Onlyfans)\n\n✅ Bisa disimpan ke galeri (Kecuali VIP Bulanan)\n✅ Video dilengkapi nama host / ID host\n❗️ Update video baru hanya VIP Bulanan\n\nGRUP VIP V1 – Rp50.000\n- Koleksi video dari tahun 2021 sampai Maret 2025\n- Jumlah sudah 61 ribu+ video\n\nGRUP VIP V2 – Rp30.000\n- Koleksi video hasil rekaman Mei 2024 – April 2025\n- Jumlah sudah 26 ribu+ video\n\nGRUP VIP V3 – Rp20.000\n- Koleksi video hasil rekaman 1 – 30 Juni 2025\n- Jumlah sekitar 12 ribu+ video\n\nGRUP VIP V4 – Rp20.000\n- Koleksi video hasil rekaman 1 – 30 Juli 2025\n- Jumlah sekitar 13 ribu+ video\n\nGRUP VIP V5 – Rp20.000\n- Koleksi video hasil rekaman 1 – 31 Agustus 2025\n- Jumlah sekitar 16 ribu+ video\n\nGRUP VIP BULANAN – Rp25.000\n- Isi video dari April 2024 (beberapa V1 + semua V2, V3, V4)\n- Update video baru 500+ per hari\n- Grup bersifat sementara (berdasarkan tanggal join)\n\n📅 Sistem Join VIP Bulanan:\nJika join tanggal 8, maka akses akan berakhir tanggal 8 bulan berikutnya.\nMasa aktif 30 hari dihitung dari tanggal masuk, bukan dari awal bulan.",
+  "tos": "Tidak ada refund. 1 pembayaran = 1 akses pribadi. Pelanggaran = ban.",
+  "help": "Jika bot sedang dalam perbaikan, silakan hubungi untuk pembayaran manual @CariDoodstream.",
+  "trial": {
+    "enabled": true,
+    "minutes": 1440,
+    "label": "/trialvip – Percobaan masuk Grup VIP selama 1 Hari (GRATIS)",
+    "response": "Trial aktif selama 1 hari. Jangan bagikan link."
+  }
+}
